@@ -6,7 +6,7 @@ Prediksi spesies penguin (Adelie, Chinstrap, atau Gentoo) berdasarkan fitur fisi
 
 * `penguin_analysis_full.ipynb` - analisis data, pelatihan model, deployment, dan monitoring.
 * `deployment/` - API, modul fitur, modul monitoring, dan model tersimpan.
-* `penguins.csv` - dataset penguin.
+* `penguins_size.csv` - dataset penguin.
 
 ## Cara Menjalankan
 
